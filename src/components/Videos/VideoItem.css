@@ -1,0 +1,14 @@
+.video-card:hover{
+  border: 1px solid #333333;
+  cursor: pointer;
+}
+
+.update:hover{
+  font-style: italic;
+  color: #593196;
+}
+
+.delete:hover{
+  font-style: italic;
+  color: red;
+}
